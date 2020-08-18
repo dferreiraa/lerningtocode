@@ -1,6 +1,7 @@
 import math
 from math import degrees
 from time import sleep
+
 def repitir():
     refazer= input('''Deseja fazer uma nova operação? 
     s - Sim
